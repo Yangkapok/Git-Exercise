@@ -24,19 +24,20 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Kantapong Choochokchai
+Email: 6730032921
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote Image](Picture/1_dDNpLKu_oTLzStsDTnkJ-g.png)
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![Git Animation](Animation/GitGif.gif)
 
 💬 4. Quote
 
-*** Read and Place TEXT from Quote.* here  ***
+Nihaoma
 
 🎬 5. Video Lecture
+
